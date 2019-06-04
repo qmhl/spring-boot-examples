@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class MaopaoSort {
 
     public static void main(String[] args) {
-        //冒泡排序
+        //选择排序
         int  arr[] = {20,5,9,52,7,2,811};
         maoPaoSort(arr);
         System.out.println(Arrays.toString(arr));
